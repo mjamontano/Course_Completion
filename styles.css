@@ -42,7 +42,7 @@
     }
 
     .badge {
-        width: 150px; /* Set the desired width */
+        width: 100px; /* Set the desired width */
         weight: auto; /* Maintain the aspect ratio */
     }
 
